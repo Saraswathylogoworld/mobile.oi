@@ -1,0 +1,8 @@
+   html {
+       scroll-behavior: smooth;
+   }
+   
+   img.slide {
+       height: 700px;
+       width: 400px;
+   }
